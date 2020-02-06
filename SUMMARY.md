@@ -1,8 +1,10 @@
 # Table of contents
 
-* [shinabitanori](README.md)
+* [shinabitanori's works](README.md)
 
 ## まとめ <a id="tanka"></a>
+
+* [落ち穂拾い](tanka/97137.md)
 
 ## 連作・短歌条例 <a id="series"></a>
 
