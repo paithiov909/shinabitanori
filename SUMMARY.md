@@ -21,4 +21,5 @@
 * [フロイト的分析によれば](others/81538.md)
 * [こんなホワイトデーは生き地獄](others/81539.md)
 * [snow-white snowball](others/85239.md)
+* [虚無虚無プリン](others/94878.md)
 
