@@ -29,3 +29,12 @@
 * [snow-white snowball](others/85239.md)
 * [虚無虚無プリン](others/94878.md)
 
+## Favorites
+
+* [自選50首](favorites/92536.md)
+* [2019年の自選五首を呟く](favorites/2019.md)
+* [2018年の自選五首を呟く](favorites/2018.md)
+* [2017年の自選五首を呟く](favorites/2017.md)
+* [みんなもっとおれの短歌読んでよ](favorites/67368.md)
+* [ブラックボックス連作](blackbox.md)
+
