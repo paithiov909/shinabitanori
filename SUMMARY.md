@@ -50,6 +50,7 @@
 
 ## Favorites
 
+* [2020年の自選五首を呟く](favorites/2020.md)
 * [自選50首](favorites/92536.md)
 * [2019年の自選五首を呟く](favorites/2019.md)
 * [2018年の自選五首を呟く](favorites/2018.md)
