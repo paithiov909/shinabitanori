@@ -11,6 +11,7 @@ description: shinabitanoriの短歌など
 
 ### Licence
 
-* Copyright \(c\) shinabitanori All rights reserved. Released under the MIT licence.
+* CC0 1.0 Universal.
 * [星空文庫](https://slib.net/a/19034/)で公開されている作品の二次利用については、そちらで指定しているライセンスに従ってください。
+* その他、ブラックボックス連作に収録されているものなど一部の作品については、著作権は原著作者に帰属します。
 
