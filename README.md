@@ -1,13 +1,9 @@
----
-description: shinabitanoriの短歌など
----
-
 # shinabitanori's works
 
 ### Repository
 
 * [GitHub](https://github.com/paithiov909/shinabitanori)
-* [Docsify on GitHubPages](https://paithiov909.github.io/shinabitanori)
+* [Docsify on GitHub Pages](https://paithiov909.github.io/shinabitanori)
 
 ### Licence
 
