@@ -5,7 +5,7 @@
 * [GitHub](https://github.com/paithiov909/shinabitanori)
 * [Docsify on GitHub Pages](https://paithiov909.github.io/shinabitanori)
 
-## Licence
+## License
 
 * CC0 1.0 Universal.
 * [星空文庫](https://slib.net/a/19034/)に掲載されている作品の二次利用については、そちらで指定しているライセンスに従ってください。
