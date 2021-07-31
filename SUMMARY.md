@@ -48,6 +48,8 @@
 * [こんなホワイトデーは生き地獄](others/81539.md)
 * [snow-white snowball](others/85239.md)
 * [虚無虚無プリン](others/94878.md)
+* [いわくのつけく](others/iwakunotsukeku.md)
+* [俳句](others/haiku.md)
 
 ## Favorites
 
@@ -61,6 +63,4 @@
 ---
 
 * [ブラックボックス連作](blackbox.md)
-* [いわくのつけく](iwakunotsukeku.md)
-* [俳句](haiku.md)
 
