@@ -1,5 +1,6 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/paithiov909/shinabitanori?style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/shinabitanori?style=flat-square)
+# shinabitanori's works
+
+![GitHub last commit](https://img.shields.io/github/last-commit/paithiov909/shinabitanori?style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/shinabitanori?style=flat-square)
 
 ## shinabitanori🤔
 
