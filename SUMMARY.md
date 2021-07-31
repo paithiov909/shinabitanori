@@ -61,4 +61,5 @@
 ---
 
 * [ブラックボックス連作](blackbox.md)
+* [いわくのつけく](iwakunotsukeku.md)
 
