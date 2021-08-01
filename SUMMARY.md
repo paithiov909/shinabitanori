@@ -50,6 +50,7 @@
 * [虚無虚無プリン](others/94878.md)
 * [いわくのつけく](others/iwakunotsukeku.md)
 * [俳句](others/haiku.md)
+* [ポエム](others/micropoems.md)
 
 ## Favorites
 
