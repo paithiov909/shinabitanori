@@ -7,6 +7,7 @@
 > 92年生まれ。戦闘終了後20％の確率で、パーティーから離脱します。 だって、めんどくさい。
 
 * [Portfolio](https://www.resume.id/shinabitanori)
+* [Contact（Twitter DM）](https://twitter.com/messages/compose?recipient_id=704344556704108544)
 
 ## Works✨
 
