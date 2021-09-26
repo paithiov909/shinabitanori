@@ -14,6 +14,7 @@
 * [GitBook](https://paithiov.gitbook.io/shinabitanori/)
 * [GitHub Repo](https://github.com/paithiov909/shinabitanori)
 * [Docsify on GitHub Pages](https://paithiov909.github.io/shinabitanori)
+* [Gallery](https://paithiov909.github.io/gallery/)
 
 ## License📃
 
